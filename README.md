@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @y3tt002
 - 👀 I’m interested in softwear testing
-- 🌱 I’m currently learning sellinium
+- 🌱 I’m currently learning automation testing
 - 💞️ I’m looking to collaborate on any testing projects
 - 📫 How to reach me 
 
